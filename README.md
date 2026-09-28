@@ -10,19 +10,23 @@ This repository contains my learning journey in \*\*Machine Learning\*\* using P
 
 
 
-\* Day 1 — NumPy
+Day 1 — NumPy
 
-\* Day 2 — Pandas \& Data Exploration
+Day 2 — Pandas \& Data Exploration
 
-\* Day 3 — Data Cleaning \& Preparation
+Day 3 — Data Cleaning \& Preparation
 
-\* Day 4 — Data Visualization
+Day 4 — Data Visualization
 
-\* Day 5 — Statistics
+Day 5 — Statistics
 
-\* Day 6 — Linear Algebra
+Day 6 — Linear Algebra
 
-\* Day 7 — Linear Regression
+Day 7 — Linear Regression
+
+Day 8 — Logistic Regression
+
+Day 9 — Comparing Classifiers
 
 
 
@@ -55,6 +59,4 @@ To learn Machine Learning step by step through practical tasks and projects.
 
 
 \*\*More days coming...\*\*
-
-
 
